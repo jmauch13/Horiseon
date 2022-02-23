@@ -7,5 +7,6 @@ Project is created with:
 * CSS
 ## Website Link
 [Let's go to Horiseon] (https://jmauch13.github.io/Horiseon/)
+## Website image
 ! [Horiseon Homepage] (assets/images/Horiseon Homepage.png)
 
